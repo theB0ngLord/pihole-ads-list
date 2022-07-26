@@ -1,0 +1,30 @@
+### Google Ads ###
+https://pagead2.googlesyndication.com
+https://ads.google.com
+https://adservice.google.com
+https://pagead2.googleadservices.com
+https://googleadservices.com
+
+### Media.net ###
+https://static.media.net
+https://media.net
+https://adservetx.media.net
+
+### Doubleclick.net ###
+https://anadoubleclick.net/
+https://ad.doubleclick.net/
+https://static.doubleclick.net
+https://-api-edm.doubleclick.net
+https://mediaadvisor.doubleclick.net
+
+### Fast Click ###
+https://media.fastclick.net/
+
+### Amazon ###
+https://adtago.s3.amazonaws.com
+https://analyticsengine.s3.amazonaws.com
+https://advice-ads.s3.amazonaws.com
+https://affiliations.s3.amazonaws.com
+https://advertising-api-eu.amazon.com
+https://amazonaax.com
+https://amazonclix.com
