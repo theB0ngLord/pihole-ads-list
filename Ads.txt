@@ -1,30 +1,30 @@
 ### Google Ads ###
-https://pagead2.googlesyndication.com
-https://ads.google.com
-https://adservice.google.com
-https://pagead2.googleadservices.com
-https://googleadservices.com
+0.0.0.0 https://pagead2.googlesyndication.com
+0.0.0.0 https://ads.google.com
+0.0.0.0 https://adservice.google.com
+0.0.0.0 https://pagead2.googleadservices.com
+0.0.0.0 https://googleadservices.com
 
 ### Media.net ###
-https://static.media.net
-https://media.net
-https://adservetx.media.net
+0.0.0.0 https://static.media.net
+0.0.0.0 https://media.net
+0.0.0.0 https://adservetx.media.net
 
 ### Doubleclick.net ###
-https://anadoubleclick.net/
-https://ad.doubleclick.net/
-https://static.doubleclick.net
-https://-api-edm.doubleclick.net
-https://mediaadvisor.doubleclick.net
+0.0.0.0 https://anadoubleclick.net/
+0.0.0.0 https://ad.doubleclick.net/
+0.0.0.0 https://static.doubleclick.net
+0.0.0.0 https://-api-edm.doubleclick.net
+0.0.0.0 https://mediaadvisor.doubleclick.net
 
 ### Fast Click ###
-https://media.fastclick.net/
+0.0.0.0 https://media.fastclick.net/
 
 ### Amazon ###
-https://adtago.s3.amazonaws.com
-https://analyticsengine.s3.amazonaws.com
-https://advice-ads.s3.amazonaws.com
-https://affiliations.s3.amazonaws.com
-https://advertising-api-eu.amazon.com
-https://amazonaax.com
-https://amazonclix.com
+0.0.0.0 https://adtago.s3.amazonaws.com
+0.0.0.0 https://analyticsengine.s3.amazonaws.com
+0.0.0.0 https://advice-ads.s3.amazonaws.com
+0.0.0.0 https://affiliations.s3.amazonaws.com
+0.0.0.0 https://advertising-api-eu.amazon.com
+0.0.0.0 https://amazonaax.com
+0.0.0.0 https://amazonclix.com
