@@ -19,3 +19,10 @@
 0.0.0.0 static.media.net
 0.0.0.0 media.net
 0.0.0.0 adservetx.media.net
+0.0.0.0 fwtracks.freshmarketer.com
+0.0.0.0 realtime.luckyorange.com
+0.0.0.0 adtech.yahooinc.com
+0.0.0.0 bdapi-ads.realmemobile.com
+0.0.0.0 bdapi-in-ads.realmemobile.com
+0.0.0.0 grs.hicloud.com
+0.0.0.0 samsung-com.112.2o7.net
